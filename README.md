@@ -1,16 +1,16 @@
 # Credit Card Customer Segmentation
 
-Objectives
+## Objectives
 The aim of this project is to derive customer segmentation of credit card for marketing strategy.
 
-Dataset
+## Dataset
 The dataset used in this project is taken from https://www.kaggle.com/datasets/arjunbhasin2013/ccdata.
 
-Executive Summary
+## Executive Summary
 1. Exploratory Data Analysis (EDA) and Data Pre-processing 
 2. Machine Learning Model training 
 
-Conclusion
+## Conclusion
 By comparing the performance of three unsupervised learning models, we use KMeans clustering as the model as it has highest silhoutte score for clustering of 0.2% which means it has better data compact within its cluster and far from other clusters.
 
 By using elbow method, we derived the optimal number of clusters for the data which is 4.
