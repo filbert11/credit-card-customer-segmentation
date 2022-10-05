@@ -11,7 +11,7 @@ The dataset used in this project is taken from https://www.kaggle.com/datasets/a
 2. Machine Learning Model Training
 
 ## Conclusion
-By comparing the performance of three unsupervised learning models, we use KMeans clustering as the model as it has highest silhoutte score for clustering of 0.20 which means it has better data compact within its cluster and far from other clusters.
+By comparing the performance of three unsupervised learning models i.e, KMeans, Gausian Mixture Model and Hierarchical Clustering, we use KMeans clustering as the model as it has highest silhoutte score for clustering of 0.20 which means it has better data compact within its cluster and far from other clusters.
 
 By using elbow method, we derived the optimal number of clusters for the data which is 4.
 
